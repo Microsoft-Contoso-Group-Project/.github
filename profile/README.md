@@ -11,6 +11,8 @@ Anticipated outcomes for the project:
 
 ## Overview
 
+![End to End LLMops Lifecycle](https://azure.github.io/Cloud-Native/assets/images/llm-app-lifecycle-6509347ca42b47d5c7ae425b890e5efe.png)
+
 ## Team
 
 ## Advisors
