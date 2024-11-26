@@ -14,17 +14,17 @@ Anticipated outcomes for the project:
 ![End to End LLMops Lifecycle](https://azure.github.io/Cloud-Native/assets/images/llm-app-lifecycle-6509347ca42b47d5c7ae425b890e5efe.png)
 
 ## Team Members
-Yiru Chen
-Zachary Elliott
-Pinqian Jin
-Alex Saul
-Sebastian Tan
-Jim Zhu
+- Yiru Chen  
+- Zachary Elliott  
+- Pinqian Jin  
+- Alex Saul  
+- Sebastian Tan  
+- Jim Zhu  
 
 ## Advisors
-Lee Stott - Microsoft Principal Cloud Advocate
-Nitya Narasimhan - Microsoft Senior Cloud Advocate
-Sonali Parbhoo - Lecturer, Imperial College London
+- Lee Stott - Microsoft Principal Cloud Advocate  
+- Nitya Narasimhan - Microsoft Senior Cloud Advocate  
+- Sonali Parbhoo - Lecturer, Imperial College London  
 
 ## Projects
 
